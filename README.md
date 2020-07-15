@@ -1,2 +1,2 @@
 # DoubleJump
-Двойной прыжок | DoubleJup (MCPE)
+Двойной прыжок | DoubleJump (MCPE)
