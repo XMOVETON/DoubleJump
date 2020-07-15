@@ -1,0 +1,9 @@
+name: DoubleJump
+main: felony13twelve\doublejump\DoubleJump
+api:
+  - 1.0.0
+  - 2.0.0
+  - 3.0.0
+  - 3.0.1
+version: 1.0.0
+author: felony13twelve
